@@ -5,3 +5,4 @@ Projeto que servirá como base para novos projetos desenvolvidos em node já com
   - Prettier
   - Eslint
   - Server e arquivo de rotas
+  - TypeORM
